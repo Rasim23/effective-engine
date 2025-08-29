@@ -12,4 +12,5 @@ while(pin!=1234){
 if(pin==1234){
   cout<<"correct pin\n";
 }
+
 }
